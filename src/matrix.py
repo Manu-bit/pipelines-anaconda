@@ -7,5 +7,4 @@ def foo():
         [0, 0, 0]
     ])
     
-    print(a)
     return a * np.identity(3)
